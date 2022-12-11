@@ -1,0 +1,37 @@
+
+
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+.mainDiv{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+/*   responsive   */
+
+@media (max-width:998px) {
+    html{
+        font-size: 45%;
+    }
+}
+
+@media (max-width:500px) {
+    html{
+        font-size: 20%;
+    }
+}

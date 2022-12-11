@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+.navbarDiv .logoDiv{
+    font-size: 2rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbarDiv .navlinks{
+    font-size: 1.5rem;
+    margin: 1rem 3rem;
+}
+
+.navlinks .link{
+    text-decoration: none;
+    color: rgb(205, 205, 205);
+}
+
+.navlinks .link:hover{
+    transition: all .15s linear;
+    color: rgb(159, 159, 159);
+}

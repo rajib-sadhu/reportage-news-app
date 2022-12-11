@@ -1,0 +1,41 @@
+
+
+
+
+
+
+.homeDiv{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    /* background-color: rgb(143, 143, 143); */
+
+}
+
+.categoryDiv{
+/* background-color: rgb(147, 147, 255); */
+
+    flex: 1;
+    height: 100vh;
+    padding: 1rem;
+
+
+
+}
+
+.socialDiv{
+/* background-color: rgb(255, 119, 119); */
+
+    flex: 1;
+    height: auto;
+    padding: 1rem;
+
+}
+
+.newsDiv{
+/* background-color: rgb(198, 255, 255); */
+
+    flex: 3.5;
+}
